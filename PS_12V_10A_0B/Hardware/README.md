@@ -1,4 +1,4 @@
-Power switch  hardware section.
+# Power switch  hardware section.
 
 Files in this directory :
 
